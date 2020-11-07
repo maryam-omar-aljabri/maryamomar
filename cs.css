@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-color:aliceblue;}
+
+.m{
+margin: 1%;
+padding: 4% ;
+border: solid 5px darkgray;
+border-radius:5%;
+border-color: gray;
+color: #a1c45a;
+text-align: center;
+}
+.n{
+	margin: auto;
+	
+}
+.o{
+	margin-left: 35%;
+	border-radius:40%;
+
+}
+.r{
+	color: #a1c45a;
+	border-color:#a1c45a; 
+}
